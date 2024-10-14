@@ -1,6 +1,6 @@
-👋 Hi, I’m Heba Sabri
-👀 I’m interested in UX/UI Design
-📫 How to reach me heba.sabri.183@gmail.com
+- 👋 Hi, I’m Heba Sabri
+- 👀 I’m interested in UX/UI Design
+- 📫 How to reach me: heba.sabri.183@gmail.com
 
 <!--
 
